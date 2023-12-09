@@ -1,0 +1,15 @@
+.profile{
+    width: fit-content;
+    margin-left: auto;
+    cursor: pointer;
+}
+.profile-item{
+    font-size: larger;
+}
+.profile-item:hover{
+    background-color: darkgray;
+    color: white;
+}
+.item{
+    margin-right: 12px;
+}
