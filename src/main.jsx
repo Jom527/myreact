@@ -6,11 +6,11 @@ import DashboardComponent from "./admin-dashboard/dashboard";
 
 const router = createBrowserRouter([
   {
-    path: "admin-login",
+    path: "login",
     element: <LoginComponent />,
   },
   {
-    path:'admin-dashboard',
+    path:'dashboard',
    element:<DashboardComponent/>
   }
 
